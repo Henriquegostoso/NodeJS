@@ -12,7 +12,7 @@ var transporter = nodemailer.createTransport({
 var mailOptions = {
   from: 'mamae6881@gmail.com',
   to: 'joedio.borges@ifc.edu.br',
-  subject: 'Sending Email using Node.js',
+  subject: 'Sending Email using Node.js Henrique de Oliveira wagner',
   text: 'loxq zdao nakc mbgq'
 };
 
